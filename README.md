@@ -12,9 +12,8 @@ This repository serves as a curated collection of academic papers focusing on **
 - 🏆 **Quality Focus**: Emphasis on high-impact venues. [CCF-Rankings](https://www.ccf.org.cn/en/About_CCF/Media_Center/) now marked with different colors(![arXiv](https://img.shields.io/badge/CCF_A-dc3545) ![Static Badge](https://img.shields.io/badge/CCF_B-ffc107) ![Static Badge](https://img.shields.io/badge/CCF_C-28a745) ![Static Badge](https://img.shields.io/badge/CCF_None-6c757d))
 - 🔄 **Regular Updates**: Continuously updated with latest research developments
 - 🌐 **Easy Access**: Direct links to papers, code repositories, and supplementary materials
-- 📊 **Comprehensive Coverage**: From foundational works to cutting-edge techniques
 
-Each paper includes the following evaluation metrics (out of 5 stars):
+📊 Each paper includes the following evaluation metrics (out of 5 stars):
 - **💡 Motivation**: How well-motivated and significant is the research problem? ⭐⭐⭐⭐⭐ (5/5)
 - **🔧 Method**: How novel and technically sound is the proposed approach? ⭐⭐⭐⭐⭐ (5/5)
 
