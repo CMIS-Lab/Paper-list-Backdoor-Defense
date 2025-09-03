@@ -13,7 +13,7 @@ This repository serves as a curated collection of academic papers focusing on **
 - 🔄 **Regular Updates**: Continuously updated with latest research developments
 - 🌐 **Easy Access**: Direct links to papers, code repositories, and supplementary materials
 
-📊 Each paper includes the following evaluation metrics (out of 5 stars):
+### 📊 **Each paper includes the following evaluation metrics (out of 5 stars):**
 - **💡 Motivation**: How well-motivated and significant is the research problem? ⭐⭐⭐⭐⭐ (5/5)
 - **🔧 Method**: How novel and technically sound is the proposed approach? ⭐⭐⭐⭐⭐ (5/5)
 
