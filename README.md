@@ -1,7 +1,7 @@
 # 🛡️ Backdoor Defense Papers Collection
 
 > 📚 **A comprehensive collection of research papers on backdoor defenses in machine learning.**  
-> 🎓 **Maintained by**: Dr. [WMW] | [Your Affiliation] | [2058477814@qq.com]
+> 🎓 **Maintained by**: Dr. [Minwei Wen] | [Your Affiliation] | [2058477814@qq.com]
 
 ## 📖 About This Repository
 
