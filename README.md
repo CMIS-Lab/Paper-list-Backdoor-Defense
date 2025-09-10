@@ -29,7 +29,7 @@ This repository serves as a curated collection of academic papers focusing on **
 
 <h3 id="attacks"> 2025 </h3>
 
-* **[2025.04.11]** **[Adversarial-Inspired Backdoor Defense via Bridging Backdoor and Adversarial Attacks](https://ojs.aaai.org/index.php/AAAI/article/view/33030)** ![Static Badge](https://img.shields.io/badge/ICLR'24-6c757d) [![GitHub stars](https://img.shields.io/github/stars/vtu81/backdoor-toolbox?style=social)]
+* **[2025.04.11]** **[Adversarial-Inspired Backdoor Defense via Bridging Backdoor and Adversarial Attacks](https://ojs.aaai.org/index.php/AAAI/article/view/33030)** ![Static Badge](https://img.shields.io/badge/AAAI'25-6c757d)(![arXiv](https://img.shields.io/badge/CCF_A-dc3545)
   * Jia-Li Yin, Weijian Wang, Lyhwa, Wei Lin, Ximeng Liu
   * **📝 Summary**: Leveraging the intrinsic connection between adversarial attacks and backdoor attacks to effectively isolate poisoned samples and weaken the association between backdoor triggers and target labels.
   * **💡 Motivation**: ⭐⭐⭐⭐⭐ (5/5) - 1) the sample is harder to be turned into an adversarial examples when the trigger is presented; 2) the adversarial examples generated from backdoor samples are highly likely to be predicted as its true labels.
