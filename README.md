@@ -29,8 +29,9 @@ This repository serves as a curated collection of academic papers focusing on **
 
 <h3 id="attacks"> 2025 </h3>
 
-* **[2025.04.11]** **[Adversarial-Inspired Backdoor Defense via Bridging Backdoor and Adversarial Attacks](https://openreview.net/forum?id=s56xikpD92)** ![Static Badge](https://img.shields.io/badge/ICLR'24-6c757d) [![GitHub stars](https://img.shields.io/github/stars/vtu81/backdoor-toolbox?style=social)]([https://github.com/yunqing-me/AttackVLM](https://github.com/vtu81/backdoor-toolbox)) 
-  * Yunqing Zhao, Tianyu Pang, Chao Du, Xiao Yang, Chongxuan Li, Ngai-Man Cheung, Min Lin
-  * **📝 Summary**: A novel approach that extracts backdoor functionality from infected models to enable accurate detection of backdoor inputs without requiring clean reference data.
-  * **💡 Motivation**: ⭐⭐⭐⭐⭐ (5/5) - Addresses the critical challenge of backdoor detection in practical scenarios where clean data is unavailable
-  * **🔧 Method**: ⭐⭐⭐⭐⭐ (5/5) - Innovative backdoor functionality extraction technique with strong theoretical foundation and empirical validation
+* **[2025.04.11]** **[Adversarial-Inspired Backdoor Defense via Bridging Backdoor and Adversarial Attacks](https://ojs.aaai.org/index.php/AAAI/article/view/33030)** ![Static Badge](https://img.shields.io/badge/ICLR'24-6c757d) [![GitHub stars](https://img.shields.io/github/stars/vtu81/backdoor-toolbox?style=social)]
+  * Jia-Li Yin, Weijian Wang, Lyhwa, Wei Lin, Ximeng Liu
+  * **📝 Summary**: Leveraging the intrinsic connection between adversarial attacks and backdoor attacks to effectively isolate poisoned samples and weaken the association between backdoor triggers and target labels.
+  * **💡 Motivation**: ⭐⭐⭐⭐⭐ (5/5) - 1) the sample is harder to be turned into an adversarial examples when the trigger is presented; 2) the adversarial examples generated from backdoor samples are highly likely to be predicted as its true labels.
+  * **🔧 Method**: ⭐⭐⭐⭐ (4/5) - Designed a clever top-q strategy to select poisoned samples.
+
