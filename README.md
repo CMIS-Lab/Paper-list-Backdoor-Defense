@@ -26,3 +26,5 @@ This repository serves as a curated collection of academic papers focusing on **
   * **📝 Summary**: A novel approach that extracts backdoor functionality from infected models to enable accurate detection of backdoor inputs without requiring clean reference data.
   * **💡 Motivation**: ⭐⭐⭐⭐⭐ (5/5) - Addresses the critical challenge of backdoor detection in practical scenarios where clean data is unavailable
   * **🔧 Method**: ⭐⭐⭐⭐⭐ (5/5) - Innovative backdoor functionality extraction technique with strong theoretical foundation and empirical validation
+
+<h3 id="attacks"> 2025 </h3>
