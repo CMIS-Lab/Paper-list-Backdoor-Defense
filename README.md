@@ -38,5 +38,5 @@ This repository serves as a curated collection of academic papers focusing on **
 * **[2025.01.23]** **[Activation Gradient based Poisoned Sample Detection Against Backdoor Attacks](https://openreview.net/forum?id=VNMJfBBUd5)** ![Static Badge](https://img.shields.io/badge/ICLR'25-6c757d)![arXiv](https://img.shields.io/badge/CCF_A-dc3545)
   * Danni Yuan, Shaokui Wei, Mingda Zhang, Li Liu, Baoyuan Wu
   * **📝 Summary**: By analyzing the distribution differences of activation gradients in the model, it effectively identifies target classes and distinguishes between clean and poisoned samples.
-  * **💡 Motivation**: ⭐⭐⭐⭐⭐ (4/5) - 1) Backdoored models tend to map significantly different poisoned samples and clean samples to similar activation regions.
+  * **💡 Motivation**: ⭐⭐⭐⭐⭐ (4/5) - Backdoored models tend to map significantly different poisoned samples and clean samples to similar activation regions.
   * **🔧 Method**: ⭐⭐⭐⭐ (4/5) - Designed a novel class-level and sample-level selection method.
