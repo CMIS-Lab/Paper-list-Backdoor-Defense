@@ -39,7 +39,7 @@ This repository serves as a curated collection of academic papers focusing on **
   * Xiaoyun Xu, Zhuoran Liu, Stefanos Koffas, Shujian Yu, Stjepan Picek
   * **📝 Summary**: Address the excessive reliance of existing methods on the separability between benign and backdoor features, which also incurs high computational cost.
   * **💡 Motivation**: ⭐⭐⭐⭐⭐ (5/5) - Observe that backdoored models are more sensitive than clean models to adversarial noise, and that neuron-level noise can be adversarially manipulated to reveal backdoor activations.
-  * **🔧 Method**: ⭐⭐⭐⭐⭐ (3/5) - Leverage neuron noise to substantially amplify backdoor effects, thereby improving the effectiveness of feature decoupling.
+  * **🔧 Method**: ⭐⭐⭐⭐⭐ (5/5) - Leverage neuron noise to substantially amplify backdoor effects, thereby improving the effectiveness of feature decoupling.
     
 <h3 id="attacks"> 2025 </h3>
 
@@ -52,5 +52,5 @@ This repository serves as a curated collection of academic papers focusing on **
 * **[Activation Gradient based Poisoned Sample Detection Against Backdoor Attacks](https://openreview.net/forum?id=VNMJfBBUd5)** ![Static Badge](https://img.shields.io/badge/ICLR'25-6c757d)
   * Danni Yuan, Shaokui Wei, Mingda Zhang, Li Liu, Baoyuan Wu
   * **📝 Summary**: By analyzing the distribution differences of activation gradients in the model, it effectively identifies target classes and distinguishes between clean and poisoned samples.
-  * **💡 Motivation**: ⭐⭐⭐⭐⭐ (4/5) - Backdoored models tend to map significantly different poisoned samples and clean samples to similar activation regions.
+  * **💡 Motivation**: ⭐⭐⭐⭐⭐ (5/5) - Backdoored models tend to map significantly different poisoned samples and clean samples to similar activation regions.
   * **🔧 Method**: ⭐⭐⭐⭐ (4/5) - Designed a novel class-level and sample-level selection method.
