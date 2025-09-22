@@ -29,7 +29,7 @@ This repository serves as a curated collection of academic papers focusing on **
 
 <h3 id="attacks"> 2024 </h3>
 
-* **[Towards Reliable and Efficient Backdoor Trigger Inversion via Decoupling Benign Features](https://openreview.net/forum?id=Tw9wemV6cb)** ![Static Badge](https://img.shields.io/badge/ICLR'24-6c757d) [![GitHub stars](./images/github_stars.png)](https://github.com/xuxiong0214/BTIDBF)
+* **[Towards Reliable and Efficient Backdoor Trigger Inversion via Decoupling Benign Features](https://openreview.net/forum?id=Tw9wemV6cb)** ![Static Badge](https://img.shields.io/badge/ICLR'24-6c757d)  [![GitHub stars](https://img.shields.io/github/stars/vtu81/backdoor-toolbox?style=social)](https://github.com/xuxiong0214/BTIDBF)
   * Xiong Xu1, Kunzhe Huang, Yiming Li, Zhan Qin1, Kui Ren
   * **📝 Summary**: Address the limitation of existing backdoor trigger inversion methods, where the generated triggers differ significantly from the actual triggers used by attackers.
   * **💡 Motivation**: ⭐⭐⭐⭐⭐ (5/5) - Overcome the reliance of current methods on extracting backdoor features for trigger inversion.
