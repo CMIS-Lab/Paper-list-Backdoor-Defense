@@ -29,13 +29,13 @@ This repository serves as a curated collection of academic papers focusing on **
 
 <h3 id="attacks"> 2024 </h3>
 
-* **[Towards Reliable and Efficient Backdoor Trigger Inversion via Decoupling Benign Features](https://openreview.net/forum?id=Tw9wemV6cb)** ![Static Badge](https://img.shields.io/badge/ICLR'24-6c757d) ![Static Badge](https://img.shields.io/badge/github'24-6c757d)[![GitHub stars](https://github.com/xuxiong0214/BTIDBF)]
+* **[Towards Reliable and Efficient Backdoor Trigger Inversion via Decoupling Benign Features](https://openreview.net/forum?id=Tw9wemV6cb)** ![Static Badge](https://img.shields.io/badge/ICLR'24-6c757d) [![GitHub stars](./images/github_stars.png)](https://github.com/xuxiong0214/BTIDBF)
   * Xiong Xu1, Kunzhe Huang, Yiming Li, Zhan Qin1, Kui Ren
   * **📝 Summary**: Address the limitation of existing backdoor trigger inversion methods, where the generated triggers differ significantly from the actual triggers used by attackers.
   * **💡 Motivation**: ⭐⭐⭐⭐⭐ (5/5) - Overcome the reliance of current methods on extracting backdoor features for trigger inversion.
   * **🔧 Method**: ⭐⭐⭐ (3/5) - Mitigate the poor performance of current methods against backdoor attacks with only a minor footprint in the feature space.
 
-* **[BAN: Detecting Backdoors Activated by Adversarial Neuron Noise](https://openreview.net/forum?id=Tw9wemV6cb)** ![Static Badge](https://img.shields.io/badge/NeurIPS'24-6c757d)![arXiv](https://img.shields.io/badge/CCF_A-dc3545) ![Static Badge](https://img.shields.io/badge/github'24-6c757d)[![GitHub stars](https://github.com/xiaoyunxxy/ban)]
+* **[BAN: Detecting Backdoors Activated by Adversarial Neuron Noise](https://openreview.net/forum?id=Tw9wemV6cb)** ![Static Badge](https://img.shields.io/badge/NeurIPS'24-6c757d)![arXiv](https://img.shields.io/badge/CCF_A-dc3545) [![GitHub stars](./images/github_stars.png)](https://github.com/xiaoyunxxy/ban)
   * Xiaoyun Xu, Zhuoran Liu, Stefanos Koffas, Shujian Yu, Stjepan Picek
   * **📝 Summary**: Address the excessive reliance of existing methods on the separability between benign and backdoor features, which also incurs high computational cost.
   * **💡 Motivation**: ⭐⭐⭐⭐⭐ (5/5) - Observe that backdoored models are more sensitive than clean models to adversarial noise, and that neuron-level noise can be adversarially manipulated to reveal backdoor activations.
