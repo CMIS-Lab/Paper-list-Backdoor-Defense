@@ -35,7 +35,7 @@ This repository serves as a curated collection of academic papers focusing on **
   * **💡 Motivation**: ⭐⭐⭐⭐⭐ (5/5) - Overcome the reliance of current methods on extracting backdoor features for trigger inversion.
   * **🔧 Method**: ⭐⭐⭐ (3/5) - Mitigate the poor performance of current methods against backdoor attacks with only a minor footprint in the feature space.
 
-* **[BAN: Detecting Backdoors Activated by Adversarial Neuron Noise](https://openreview.net/forum?id=Tw9wemV6cb)** ![Static Badge](https://img.shields.io/badge/NeurIPS'24-6c757d)![arXiv](https://img.shields.io/badge/CCF_A-dc3545) [![GitHub stars](https://img.shields.io/github/stars/xuxiong0214/BTIDBF?style=social)](https://github.com/xiaoyunxxy/ban)
+* **[BAN: Detecting Backdoors Activated by Adversarial Neuron Noise](https://openreview.net/forum?id=Tw9wemV6cb)** ![Static Badge](https://img.shields.io/badge/NeurIPS'24-6c757d)![arXiv](https://img.shields.io/badge/CCF_A-dc3545) [![GitHub stars](https://img.shields.io/github/stars/xiaoyunxxy/ban?style=social)](https://github.com/xiaoyunxxy/ban)
   * Xiaoyun Xu, Zhuoran Liu, Stefanos Koffas, Shujian Yu, Stjepan Picek
   * **📝 Summary**: Address the excessive reliance of existing methods on the separability between benign and backdoor features, which also incurs high computational cost.
   * **💡 Motivation**: ⭐⭐⭐⭐⭐ (5/5) - Observe that backdoored models are more sensitive than clean models to adversarial noise, and that neuron-level noise can be adversarially manipulated to reveal backdoor activations.
