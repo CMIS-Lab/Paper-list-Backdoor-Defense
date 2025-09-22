@@ -35,7 +35,7 @@ This repository serves as a curated collection of academic papers focusing on **
   * **💡 Motivation**: ⭐⭐⭐⭐⭐ (5/5) - 1) the sample is harder to be turned into an adversarial examples when the trigger is presented; 2) the adversarial examples generated from backdoor samples are highly likely to be predicted as its true labels.
   * **🔧 Method**: ⭐⭐⭐⭐ (4/5) - Designed a clever top-q strategy to select poisoned samples.
 
-* **[2025.01.23]** **[Activation Gradient based Poisoned Sample Detection Against Backdoor Attacks](https://openreview.net/forum?id=VNMJfBBUd5)** ![Static Badge](https://img.shields.io/badge/ICLR'25-6c757d)![arXiv](https://img.shields.io/badge/CCF_A-dc3545)
+* **[2025.01.23]** **[Activation Gradient based Poisoned Sample Detection Against Backdoor Attacks](https://openreview.net/forum?id=VNMJfBBUd5)** ![Static Badge](https://img.shields.io/badge/ICLR'25-6c757d)
   * Danni Yuan, Shaokui Wei, Mingda Zhang, Li Liu, Baoyuan Wu
   * **📝 Summary**: By analyzing the distribution differences of activation gradients in the model, it effectively identifies target classes and distinguishes between clean and poisoned samples.
   * **💡 Motivation**: ⭐⭐⭐⭐⭐ (4/5) - Backdoored models tend to map significantly different poisoned samples and clean samples to similar activation regions.
