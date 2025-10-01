@@ -40,7 +40,14 @@ This repository serves as a curated collection of academic papers focusing on **
   * **📝 Summary**: Address the excessive reliance of existing methods on the separability between benign and backdoor features, which also incurs high computational cost.
   * **💡 Motivation**: ⭐⭐⭐⭐ (4/5) - Observe that backdoored models are more sensitive than clean models to adversarial noise, and that neuron-level noise can be adversarially manipulated to reveal backdoor activations.
   * **🔧 Method**: ⭐⭐⭐⭐ (4/5) - Leverage neuron noise to substantially amplify backdoor effects, thereby improving the effectiveness of feature decoupling.
-    
+ 
+  * * **[Exploring the Orthogonality and Linearity of Backdoor Attacks](https://ieeexplore.ieee.org/abstract/document/10646641)** ![Static Badge](https://img.shields.io/badge/S$P'24-6c757d)![arXiv](https://img.shields.io/badge/CCF_A-dc3545) 
+  * Kaiyuan Zhang, Siyuan Cheng, Guangyu Shen, Guanhong Tao, Shengwei An, Anuran Makur, Shiqing Ma, Xiangyu Zhang
+  * **📝 Summary**: Provided a detailed exposition of the fundamental principles behind backdoor attacks.
+  * **💡 Motivation**: ⭐⭐⭐⭐⭐ (5/5) Investigated the reasons why defenses fail.
+  * **🔧 Method**: ⭐⭐⭐⭐⭐ (5/5) Conducted experiments combining multiple attack and defense methods.
+
+
 <h3 id="attacks"> 2025 </h3>
 
 * **[Adversarial-Inspired Backdoor Defense via Bridging Backdoor and Adversarial Attacks](https://ojs.aaai.org/index.php/AAAI/article/view/33030)** ![Static Badge](https://img.shields.io/badge/AAAI'25-6c757d)![arXiv](https://img.shields.io/badge/CCF_A-dc3545)
