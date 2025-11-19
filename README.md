@@ -24,9 +24,15 @@ This repository serves as a curated collection of academic papers focusing on **
 * **[BaDExpert: Extracting Backdoor Functionality for Accurate Backdoor Input Detection](https://openreview.net/forum?id=s56xikpD92)** ![Static Badge](https://img.shields.io/badge/ICLR'23-6c757d) [![GitHub stars](https://img.shields.io/github/stars/vtu81/backdoor-toolbox?style=social)]([https://github.com/yunqing-me/AttackVLM](https://github.com/vtu81/backdoor-toolbox)) 
   * Yunqing Zhao, Tianyu Pang, Chao Du, Xiao Yang, Chongxuan Li, Ngai-Man Cheung, Min Lin
   * **📝 Summary**: A novel approach that extracts backdoor functionality from infected models to enable accurate detection of backdoor inputs without requiring clean reference data.
-  * **💡 Motivation**: ⭐⭐⭐⭐⭐ (5/5) - Addresses the critical challenge of backdoor detection in practical scenarios where clean data is unavailable
-  * **🔧 Method**: ⭐⭐⭐⭐⭐ (5/5) - Innovative backdoor functionality extraction technique with strong theoretical foundation and empirical validation
+  * **💡 Motivation**: ⭐⭐⭐⭐⭐ (5/5) - Addresses the critical challenge of backdoor detection in practical scenarios where clean data is unavailable.
+  * **🔧 Method**: ⭐⭐⭐⭐⭐ (5/5) - Innovative backdoor functionality extraction technique with strong theoretical foundation and empirical validation.
 
+* **[SCALE-UP: An Efficient Black-box Input-level Backdoor Detection via Analyzing Scaled Prediction Consistency](https://openreview.net/pdf/341ae2d07a7459242b24bb6e6ff7e2aec7a756e1.pdf)** ![Static Badge](https://img.shields.io/badge/ICLR'23-6c757d) [![GitHub stars](https://img.shields.io/github/stars/vtu81/backdoor-toolbox?style=social)](https://github.com/JunfengGo/SCALE-UP) 
+  * Junfeng Guo, Yiming Li, Xun Chen, Hanqing Guo, Lichao Sun, Cong Liu
+  * **📝 Summary**: The core of this work is that when pixel magnification is performed, the predictions of poisoned samples are more robust than those of clean samples.
+  * **💡 Motivation**: ⭐⭐⭐ (3/5) - Existing approaches are unsuitable for Machine Learning as a Service (MLaaS), as they require access to or even modification of the model.
+  * **🔧 Method**: ⭐⭐⭐ (3/5) - Directly relying on prediction differences after pixel magnification is highly problematic. For example, when the trigger is white, it may disappear after magnification.
+  
 <h3 id="attacks"> 2024 </h3>
 
 * **[Towards Reliable and Efficient Backdoor Trigger Inversion via Decoupling Benign Features](https://openreview.net/forum?id=Tw9wemV6cb)** ![Static Badge](https://img.shields.io/badge/ICLR'24-6c757d) [![GitHub stars](https://img.shields.io/github/stars/xuxiong0214/BTIDBF?style=social)](https://github.com/xuxiong0214/BTIDBF)
