@@ -53,7 +53,12 @@ This repository serves as a curated collection of academic papers focusing on **
   * **💡 Motivation**: ⭐⭐⭐⭐⭐ (5/5) Investigated the reasons why defenses fail.
   * **🔧 Method**: ⭐⭐⭐⭐⭐ (5/5) Conducted experiments combining multiple attack and defense methods.
 
-
+* **[IBD-PSC: Input-level Backdoor Detection via Parameter-oriented Scaling Consistency](https://arxiv.org/abs/2405.09786)** ![Static Badge](https://img.shields.io/badge/ICML'24-6c757d)![arXiv](https://img.shields.io/badge/CCF_A-dc3545) [![GitHub stars](https://img.shields.io/github/stars/xiaoyunxxy/ban?style=social)](https://github.com/THUYimingLi/BackdoorBox)
+  * Linshan Hou Ruili Feng Zhongyun Hua Wei Luo Leo Yu Zhang Yiming Li
+  * **📝 Summary**: This work explores that when scaling up parameters, the prediction confidence of poisoned samples is significantly higher than that of clean samples.
+  * **💡 Motivation**: ⭐⭐⭐⭐⭐ (5/5) - Existing methods investigate prediction differences between clean and poisoned samples by enlarging pixel dimensions, but their effectiveness notably degrades when dealing with black or white images.
+  * **🔧 Method**: ⭐⭐⭐⭐ (4/5) - The approach observes prediction confidence of poisoned versus clean samples by scaling parameters in different Batch Normalization layers, though it suffers from high computational complexity and numerous hyperparameters.
+    
 <h3 id="attacks"> 2025 </h3>
 
 * **[Adversarial-Inspired Backdoor Defense via Bridging Backdoor and Adversarial Attacks](https://ojs.aaai.org/index.php/AAAI/article/view/33030)** ![Static Badge](https://img.shields.io/badge/AAAI'25-6c757d)![arXiv](https://img.shields.io/badge/CCF_A-dc3545)
